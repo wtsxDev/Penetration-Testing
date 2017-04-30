@@ -180,6 +180,8 @@ A collection of awesome penetration testing resources
 #### Hex Editors
 * [HexEdit.js](https://hexed.it) - Browser-based hex editing
 * [Hexinator](https://hexinator.com/) (commercial) - World's finest Hex Editor
+* [HxD - Freeware Hex Editor and Disk Editor](https://mh-nexus.de/en/hxd/)
+
 
 #### Crackers
 * [John the Ripper](http://www.openwall.com/john/) - Fast password cracker
