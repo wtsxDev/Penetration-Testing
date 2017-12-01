@@ -187,6 +187,7 @@ A collection of awesome penetration testing resources
 * [John the Ripper](http://www.openwall.com/john/) - Fast password cracker
 * [Online MD5 cracker](http://www.md5crack.com/) - Online MD5 hash Cracker
 * [Hashcat](http://hashcat.net/hashcat/) - The more fast hash cracker
+* [THC Hydra](http://sectools.org/tool/hydra/) - Another Great Password Cracker
 
 #### Windows Utils
 * [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - The Sysinternals Troubleshooting Utilities
