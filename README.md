@@ -148,7 +148,7 @@ A collection of awesome penetration testing resources
 * [scapy](https://github.com/secdev/scapy) - a python-based interactive packet manipulation program & library
 * [Dshell](https://github.com/USArmyResearchLab/Dshell) - Network forensic analysis framework
 * [Debookee (MAC OS X)](http://www.iwaxx.com/debookee/) - Intercept traffic from any device on your network
-* [Dripcap](https://github.com/dripcap/dripcap) - Caffeinated packet analyzer
+* [Deplug](https://github.com/deplug/deplug) - Graphical network analyzer
 
 #### Wireless Network Tools
 * [Aircrack-ng](http://www.aircrack-ng.org/) - a set of tools for auditing wireless network
