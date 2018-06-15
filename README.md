@@ -138,6 +138,7 @@ A collection of awesome penetration testing resources
 * [Mass Scan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 * [Zarp](https://github.com/hatRiot/zarp) - Zarp is a network attack tool centered around the exploitation of local networks
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive SSL-capable intercepting HTTP proxy for penetration testers and software developers
+* [ssh-mitm](https://github.com/jtesta/ssh-mitm) - An MITM tool that logs interactive SSH/SFTP sessions and passwords.
 * [mallory](https://github.com/justmao945/mallory) - HTTP/HTTPS proxy over SSH
 * [Netzob](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols
 * [DET](https://github.com/sensepost/DET) - DET is a proof of concept to perform Data Exfiltration using either single or multiple channel(s) at the same time
