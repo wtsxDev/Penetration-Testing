@@ -51,6 +51,7 @@ A collection of awesome penetration testing resources
 * [PENTEST-WIKI](https://github.com/nixawk/pentest-wiki) - A free online security knowledge library for pentesters / researchers.
 * [Vulnerability Assessment Framework](http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html) - Penetration Testing Framework.
 * [The Pentesters Framework](https://github.com/trustedsec/ptf) - PTF attempts to install all of your penetration testing tools (latest and greatest), compile them, build them, and make it so that you can install/update your distribution on any machine. Everything is organized in a fashion that is cohesive to the Penetration Testing Execution Standard (PTES) and eliminates a lot of things that are hardly used.
+* [PenTest Workshop](https://pentest.ws) - Track Hosts & Services During a Penetration Test, CTF or a PenTest Lab
 
 #### Exploit development
 * [Shellcode Tutorial](http://www.vividmachines.com/shellcode/shellcode.html) - Tutorial on how to write shellcode
