@@ -1,5 +1,5 @@
 ### **Awesome Penetration Testing** [![Links Check](https://4.bp.blogspot.com/-_NIGc5XKpSw/WHt9d7wCXaI/AAAAAAAAB0o/OYIv8EWjIoYh44jfxIRSrRYbgrn3MZKEQCLcB/s1600/penetration%2Btesting.png)](http://kalitut.com)
-
+[![10 Common Hacking Techniques](http://img.youtube.com/vi/V3CTfJ2ZP7M/0.jpg)](http://www.youtube.com/watch?v=V3CTfJ2ZP7M "10 Common Hacking Techniques")
 
 A collection of awesome penetration testing resources
 
