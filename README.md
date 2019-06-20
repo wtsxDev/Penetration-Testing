@@ -8,6 +8,7 @@ A collection of awesome penetration testing resources
   - [Exploit development](#exploit-development)
   - [Social Engineering Resources](#social-engineering-resources)
   - [Lock Picking Resources](#lock-picking-resources)
+  - [Hacking Games](#hacking-games)
 - [Tools](#tools)
   - [Penetration Testing Distributions](#penetration-testing-distributions)
   - [Basic Penetration Testing Tools](#basic-penetration-testing-tools)
@@ -64,7 +65,10 @@ A collection of awesome penetration testing resources
 
 #### Lock Picking Resources
 * [Schuyler Towne channel](https://www.youtube.com/user/SchuylerTowne/) - Lockpicking videos and security talks
-* [/r/lockpicking](https://www.reddit.com/r/lockpicking) - Resources for learning lockpicking, equipment recommendations.
+* [/r/lockpicking](https://www.reddit.com/r/lockpicking) - Resources for learning lockpicking, equipment recommendations
+
+#### Hacking Games
+* [Over The Wire](http://overthewire.org) - Learn and practice security concepts in the form of fun-filled games
 
 ### Tools
 #### Penetration Testing Distributions
