@@ -119,6 +119,8 @@ A collection of awesome penetration testing resources
 * [arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 
 #### Network Tools
+* [Spyse](https://spyse.com) - Web research tools that scan the entire internet using OSINT. Simplifies the investigation of infrastructures and attack surfaces.
+* [sublist3r](https://github.com/aboul3la/Sublist3r) - python enumerattion tool 
 * [nmap](https://nmap.org/) - Free Security Scanner For Network Exploration & Security Audits
 * [pig](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
 * [tcpdump/libpcap](http://www.tcpdump.org/) - A common packet analyzer that runs under the command line
@@ -159,6 +161,7 @@ A collection of awesome penetration testing resources
 
 #### SSL Analysis Tools
 * [SSLyze](https://github.com/nabla-c0d3/sslyze) - SSL configuration scanner
+* [Certdb](http://certdb.com) - SSL/TLS data provider which collects lots of data about digital certificates (expiration date, type, issuers, also ASN etc...)
 * [sslstrip](https://www.thoughtcrime.org/software/sslstrip/) - a demonstration of the HTTPS stripping attacks
 * [sslstrip2](https://github.com/LeonardoNve/sslstrip2) - SSLStrip version to defeat HSTS
 * [tls_prober](https://github.com/WestpointLtd/tls_prober) - fingerprint a server's SSL/TLS implementation
