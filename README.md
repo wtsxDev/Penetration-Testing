@@ -333,6 +333,7 @@ A collection of awesome penetration testing resources
 * [Vulnerability Laboratory](http://www.vulnerability-lab.com/) - Vulnerability Research Laboratory
 * [ZDI](http://www.zerodayinitiative.com/) - Zero Day Initiative
 * [Vulners](https://vulners.com) - Security database of software vulnerabilities
+* [Common Vulnerabilities and Exposures](https://cve.mitre.org/) - Common Vulnerabilities and Exposures (CVE®) is a list of common identifiers for publicly known cybersecurity vulnerabilities.
 
 ### Security Courses
 * [Offensive Security Training](https://www.offensive-security.com/information-security-training/) - Training from BackTrack/Kali developers
