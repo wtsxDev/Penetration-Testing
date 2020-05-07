@@ -109,6 +109,7 @@ A collection of awesome penetration testing resources
 * [Nexpose](https://www.rapid7.com/products/nexpose/) - Vulnerability Management & Risk Management Software
 * [Nessus](http://www.tenable.com/products/nessus-vulnerability-scanner) - Vulnerability, configuration, and compliance assessment
 * [Nikto](https://cirt.net/nikto2) - Web application vulnerability scanner
+* [Netsparker](https://www.netsparker.com/)- Web application vulnerability scanner
 * [OpenVAS](http://www.openvas.org/) - Open Source vulnerability scanner and manager
 * [OWASP Zed Attack Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - Penetration testing tool for web applications
 * [Secapps](https://secapps.com/) - Integrated web application security testing environment
@@ -333,6 +334,7 @@ A collection of awesome penetration testing resources
 * [Vulnerability Laboratory](http://www.vulnerability-lab.com/) - Vulnerability Research Laboratory
 * [ZDI](http://www.zerodayinitiative.com/) - Zero Day Initiative
 * [Vulners](https://vulners.com) - Security database of software vulnerabilities
+* [Common Vulnerabilities and Exposures](https://cve.mitre.org/) - Common Vulnerabilities and Exposures (CVE®) is a list of common identifiers for publicly known cybersecurity vulnerabilities.
 
 ### Security Courses
 * [Offensive Security Training](https://www.offensive-security.com/information-security-training/) - Training from BackTrack/Kali developers
