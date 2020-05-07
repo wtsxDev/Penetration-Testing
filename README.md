@@ -109,6 +109,7 @@ A collection of awesome penetration testing resources
 * [Nexpose](https://www.rapid7.com/products/nexpose/) - Vulnerability Management & Risk Management Software
 * [Nessus](http://www.tenable.com/products/nessus-vulnerability-scanner) - Vulnerability, configuration, and compliance assessment
 * [Nikto](https://cirt.net/nikto2) - Web application vulnerability scanner
+* [Netsparker](https://www.netsparker.com/)- Web application vulnerability scanner
 * [OpenVAS](http://www.openvas.org/) - Open Source vulnerability scanner and manager
 * [OWASP Zed Attack Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - Penetration testing tool for web applications
 * [Secapps](https://secapps.com/) - Integrated web application security testing environment
