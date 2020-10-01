@@ -343,6 +343,7 @@ A collection of awesome penetration testing resources
 * [Cybrary](http://cybrary.it) - Free courses in ethical hacking and advanced penetration testing.  Advanced penetration testing courses are based on the book 'Penetration Testing for Highly Secured Enviroments'.
 * [Computer Security Student](http://computersecuritystudent.com) - Many free tutorials, great for beginners, $10/mo membership unlocks all content
 * [European Union Agency for Network and Information Security](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) - ENISA Cyber Security Training material
+* [IT & Security Education, Certifications](https://www.infosecinstitute.com/) - All information security course bundles with certifications are available with different learning paths and bootcamps.
 
 ### Information Security Conferences
 * [DEF CON](https://www.defcon.org/) - An annual hacker convention in Las Vegas
