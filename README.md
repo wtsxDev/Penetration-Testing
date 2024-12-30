@@ -117,6 +117,7 @@ A collection of awesome penetration testing resources
 * [WebReaver](http://www.webreaver.com/) - Web application vulnerability scanner for Mac OS X
 * [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG/BZR
 * [arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
+* [ZeroThreat](https://zerothreat.ai/solutions/vulnerability-scanner) - Intelligent Vulnerability Scanner Powered by AI
 
 #### Network Tools
 * [nmap](https://nmap.org/) - Free Security Scanner For Network Exploration & Security Audits
