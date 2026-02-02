@@ -228,6 +228,7 @@ A collection of awesome penetration testing resources
 * [Tor](https://www.torproject.org/) - The free software for enabling onion routing online anonymity
 * [I2P](https://geti2p.net/en/) - The Invisible Internet Project
 * [Nipe](https://github.com/GouveaHeitor/nipe) - Script to redirect all traffic from the machine to the Tor network.
+* [n01d-machine](https://github.com/bad-antics/n01d-machine) - Secure VM manager with Tor/VPN integration and network isolation for anonymous penetration testing.
 
 #### Reverse Engineering Tools
 * [IDA Pro](https://www.hex-rays.com/products/ida/) - A Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
