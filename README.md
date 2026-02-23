@@ -245,6 +245,7 @@ A collection of awesome penetration testing resources
 
 #### CTF Tools
 * [Pwntools](https://github.com/Gallopsled/pwntools) - CTF framework for use in CTFs
+* [Reverse Shell as a Service](https://github.com/lukechilds/reverse-shell) - Easy to remember reverse shell that should work on most Unix-like systems.
 
 ### Books
 #### Penetration Testing Books
