@@ -323,6 +323,7 @@ A collection of awesome penetration testing resources
 * [OSVDB](https://blog.osvdb.org/) - Open Sourced Vulnerability Database
 * [Bugtraq](http://www.securityfocus.com/) - Symantec SecurityFocus
 * [Exploit-DB](https://www.exploit-db.com/) - Offensive Security Exploit Database
+* [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier
 * [Fulldisclosure](http://seclists.org/fulldisclosure/) - Full Disclosure Mailing List
 * [MS Bulletin](https://technet.microsoft.com/en-us/security/bulletins) - Microsoft Security Bulletin
 * [MS Advisory](https://technet.microsoft.com/en-us/security/advisories) - Microsoft Security Advisories
@@ -387,4 +388,3 @@ Please have a look at
 * [Top Machine learning Books](http://www.kalitut.com/2017/01/machine-learning-book.html)
 * [Top 5 books Programming Books](http://www.kalitut.com/2017/01/Top-Programming-Books.html)
 * [Top Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
-
