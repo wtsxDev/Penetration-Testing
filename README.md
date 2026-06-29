@@ -152,6 +152,7 @@ A collection of awesome penetration testing resources
 
 #### Wireless Network Tools
 * [Aircrack-ng](http://www.aircrack-ng.org/) - a set of tools for auditing wireless network
+* [Alfa Arsenal](https://github.com/ardittirana/alfa-arsenal) - Policy-gated Wi-Fi auditor for WPA/WPA2 handshake and PMKID capture
 * [Kismet](https://kismetwireless.net/) - Wireless network detector, sniffer, and IDS
 * [Reaver](https://code.google.com/archive/p/reaver-wps) - Brute force attack against Wifi Protected Setup
 * [Wifite](https://github.com/derv82/wifite) - Automated wireless attack tool
