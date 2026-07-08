@@ -82,6 +82,7 @@ A collection of awesome penetration testing resources
 * [Burp Suite](https://portswigger.net/burp/) - An integrated platform for performing security testing of web applications
 * [ExploitPack](http://exploitpack.com/) - Graphical tool for penetration testing with a bunch of exploits
 * [BeeF](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI pentest platform and MCP host orchestrating 80+ offensive tools via per-tech offensive sub-agents, with Active Directory and Kubernetes support
 * [faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 * [evilgrade](https://github.com/infobyte/evilgrade) - The update explotation framework
 * [commix](https://github.com/stasinopoulos/commix) - Automated All-in-One OS Command Injection and Exploitation Tool
