@@ -194,7 +194,7 @@ A collection of awesome penetration testing resources
 * [Windows Credentials Editor](http://www.ampliasecurity.com/research/windows-credentials-editor/) - security tool to list logon sessions and add, change, list and delete associated credentials
 * [mimikatz](http://blog.gentilkiwi.com/mimikatz) - Credentials extraction tool for Windows OS
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework
-* [Windows Exploit Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester) - Detects potential missing patches on the target
+* [Windows Exploit Suggester](https://github.com/strozfriedberg/Windows-Exploit-Suggester) - Detects potential missing patches on the target
 * [Responder](https://github.com/SpiderLabs/Responder) - A LLMNR, NBT-NS and MDNS poisoner
 * [Bloodhound](https://github.com/adaptivethreat/Bloodhound/wiki) - A graphical Active Directory trust relationship explorer
 * [Empire](https://github.com/PowerShellEmpire/Empire) - Empire is a pure PowerShell post-exploitation agent
@@ -223,6 +223,7 @@ A collection of awesome penetration testing resources
 * [github-dorks](https://github.com/techgaun/github-dorks) - CLI tool to scan github repos/organizations for potential sensitive information leak
 * [vcsmap](https://github.com/melvinsh/vcsmap) - A plugin-based tool to scan public version control systems for sensitive information
 * [Spiderfoot](http://www.spiderfoot.net/) - multi-source OSINT automation tool with a Web UI and report visualizations
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 #### Anonymity Tools
 * [Tor](https://www.torproject.org/) - The free software for enabling onion routing online anonymity
