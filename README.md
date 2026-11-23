@@ -87,6 +87,7 @@ A collection of awesome penetration testing resources
 * [commix](https://github.com/stasinopoulos/commix) - Automated All-in-One OS Command Injection and Exploitation Tool
 * [routersploit](https://github.com/reverse-shell/routersploit) - Automated penetration testing software for router
 * [redsnarf] (https://github.com/nccgroup/redsnarf) - Post-exploitation tool for grabbing credentials
+* [Pentest Swarm AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Open-source autonomous penetration testing framework where a swarm of AI agents performs recon, chains vulnerabilities, and proves exploitation with a working proof-of-concept, with scope/egress/authorization guardrails
 
 #### Docker for Penetration Testing
 * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
